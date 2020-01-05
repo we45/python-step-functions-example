@@ -7,6 +7,8 @@ from dateutil import parser
 from parsers.utils import get_created_on
 import inspect
 
+# gonna keep adding comments
+
 def parse_zap(xml_file,user_name,init_es):
 	"""
 	Parsing a given xml file using zap. This function returns a dictionary of scan parameters and
