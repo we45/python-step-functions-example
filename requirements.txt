@@ -24,3 +24,4 @@ pyjwt==1.7.1
 urllib2
 urllib9==1.0.1
 Django==1.8.0
+PyYAML==3.0.0
