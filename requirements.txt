@@ -21,5 +21,4 @@ requests-cache==0.4.13
 django-filter==2.0.0
 django-celery==3.2.1
 pyjwt==1.7.1
-Django==1.8.0
 PyYAML==3.0.0
