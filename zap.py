@@ -14,8 +14,6 @@ import inspect
 # hopefully final comment
 # actually worked. trying something new
 # another comment
-# yac
-# yac2
 
 def parse_zap(xml_file,user_name,init_es):
 	"""
