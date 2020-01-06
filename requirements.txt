@@ -4,7 +4,6 @@ djangorestframework==3.7.7
 Pillow==5.0.0
 lxml==4.1.1
 django-background-tasks==1.1.12
-bs4
 jira==1.0.10
 pycrypto==2.6.1
 python-dateutil
