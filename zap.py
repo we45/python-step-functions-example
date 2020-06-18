@@ -16,7 +16,6 @@ import inspect
 # another comment
 # another comment 2
 # another comment 3
-# another comment 4
 
 def parse_zap(xml_file,user_name,init_es):
 	"""
